@@ -5,7 +5,7 @@ github_username: jojoblox
 github_repo: "Logan-Brown"
 baseurl: "/Logan-Brown"
 future: true
-remote_theme: jekyll/minima
+remote_theme: jekyll/minimal
 minima:
   social_links:
     - { platform: github, user_url: "https://github.com/nighthawkcoders/teacher_portfolio"}
